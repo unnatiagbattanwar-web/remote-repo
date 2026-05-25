@@ -1,3 +1,3 @@
 this is my first file
 learn git coloning
-authentication method add
+ssh key method
